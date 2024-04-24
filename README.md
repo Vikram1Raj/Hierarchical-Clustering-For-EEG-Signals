@@ -4,6 +4,8 @@
 
 This project is  about verifying Hierarchical Clustering(HC) for Seizure prediction from EEG Signals. Here I test out HC with CNN, SVM and MLP models to verify how well it works.
 
+### [Dataset](https://ieee-dataport.org/open-access/preprocessed-chb-mit-scalp-eeg-database)
+
 ## Results
 
 | Model      | Accuracy | Precision | Sensitivity | Recall   |
